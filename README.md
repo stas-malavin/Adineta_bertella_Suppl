@@ -2,7 +2,7 @@
 Accompanying repository to Anischenko et al. 2023 Adineta bertella sp. n., a new bdelloid rotifer from Svalbard cryoconite
 ## Contents
 1. README.md — this file
-2. SCL-Ad08-_167seq\*.ab1 — Cox1 gene Sanger traces (chromatograms)
+2. SCL-Ad08-\*CO.ab1 — Cox1 gene Sanger traces (chromatograms)
 3. Adineta_524seq.fasta — initial alignment, 524 sequnces
 4. Adineta_524seq_GTR.nwk — tree obtained from 524 seq alignment
 5. Adineta_167seq.fasta — smaller alignment, 167 sequences
